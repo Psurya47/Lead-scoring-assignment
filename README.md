@@ -1,4 +1,4 @@
-# Lead-scoring-assignment
+# Lead-scoring-Case Study
 Sumitted by 
 
 **Vedant Patil**
